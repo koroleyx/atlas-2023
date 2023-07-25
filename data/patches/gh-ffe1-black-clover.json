@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Black Clover",
+	"description": "Nero from Black Clover",
+	"links": {
+		"subreddit": [
+			"blackclover"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				1187,
+				12
+			],
+			[
+				1199,
+				11
+			],
+			[
+				1201,
+				21
+			],
+			[
+				1187,
+				23
+			]
+		]
+	},
+	"center": {
+		"254": [
+			1193,
+			17
+		]
+	}
+}
